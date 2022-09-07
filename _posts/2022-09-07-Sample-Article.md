@@ -12,4 +12,6 @@ tags:
 
 ## Hello World
 
-Hello
+Hello World
+
+<div align=center><img src="../images/post1-image.png"/></div>
