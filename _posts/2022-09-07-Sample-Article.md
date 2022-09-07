@@ -14,4 +14,6 @@ tags:
 
 Hello World
 
-<div align=center><img src="../../img/post1-image.png"/></div>
+<div align=center><img src="../img/home-bg-rwd.jpg"/></div>
+
+<div align=center><img src="img/post-img1.jpg"/></div>
