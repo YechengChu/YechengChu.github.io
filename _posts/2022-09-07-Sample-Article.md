@@ -12,10 +12,6 @@ tags:
 
 ## Hello World
 
-Hello World
+Hello World!
 
-<div align=center><img src="../../img/home-bg-rwd.jpg"/></div>
-
-<div align=center><img src="../../../img/post-img1.jpg"/></div>
-
-<div align=center><img src="../../../../img/post-img1.jpg"/></div>
+<div align=center><img src="../../../../img/post_img/post1-test.jpg"/></div>
