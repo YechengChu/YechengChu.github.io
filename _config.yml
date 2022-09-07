@@ -11,7 +11,7 @@ github_repo: "https://github.com/YechengChu/YechengChu.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "💻 MSc Computer Science student at the University of Manchester 📚"
+sidebar-about-description: "Postgraduate student 📚 at the University of Manchester 🇬🇧 Department of Computer Science 🖥"
 sidebar-avatar: /img/yc_image.JPG       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
