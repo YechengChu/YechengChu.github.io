@@ -108,7 +108,7 @@ sidebar-avatar: /img/avatar-by.jpg     #你的大头贴，请使用绝对地址.
 
 ### Mini About Me
 
-Mini-About-Me 这个模块将在你的头像下面，展示你所有的社交账号。这个也是响应式布局，当屏幕变小时候，会将其移动到页面底部，只不过会稍微有点小变化，具体请看代码。
+Mini-About-Me 这个模块将在你的头像下面，展示你所有的社交账号。这个也是响应式布局，当屏幕变小时候，会将其移动到页面底部，只不过会稍微有点小变化，具体请看代码。改动侧边栏社交媒体的代码请`_layouts/page.html`文件中修改
 
 ### Featured Tags
 
@@ -140,6 +140,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 	
 
 ![](http://ww4.sinaimg.cn/large/006tKfTcgy1fgrgbgf77aj308i02v748.jpg)
+改动底边栏社交媒体的代码请`_includes/footer.html`文件中修改
 
 ### Friends
 
