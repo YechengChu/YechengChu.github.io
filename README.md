@@ -140,6 +140,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 	
 
 ![](http://ww4.sinaimg.cn/large/006tKfTcgy1fgrgbgf77aj308i02v748.jpg)
+
 改动底边栏社交媒体的代码请`_includes/footer.html`文件中修改
 
 ### Friends
