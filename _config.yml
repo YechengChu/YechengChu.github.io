@@ -64,10 +64,10 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: b8c07d81f620be9821c1                            #生成的clientID
   clientSecret: 701877fbc206708eeba2b4d809a9effda03779af    #生成的clientSecret
-  repo: yecheng.github.io    #仓库名称
+  repo: YechengChu.github.io    #仓库名称
   owner: YechengChu    #github用户名
   admin: YechengChu
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
 # 统计
