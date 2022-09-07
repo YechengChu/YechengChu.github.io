@@ -18,12 +18,14 @@ sidebar-avatar: /img/yc_image.JPG       # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-# weibo_username:    
-#zhihu_username:    
+# weibo_username:
+#zhihu_username:
 github_username:    YechengChu
 facebook_username:  profile.php?id=100027674834226
-#jianshu_username:  
+#jianshu_username:
 twitter_username:   Darren_Cyc
+ins_username:  wbszhc?igshid=YmMyMTA2M2Y=
+linkedin_username:   yecheng-chu-667013139
 
 
 
