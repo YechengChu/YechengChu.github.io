@@ -36,6 +36,7 @@ Useful for starter code.
 
     ```shell
     $ git remote add origin git-url-of-the-new-repo-you-created
-    $ git push -u origin master
+    $ git branch -M main
+    $ git push -u origin main
     ```
 > This blog is modified from [moose-horizons](https://gist.github.com/moose-horizons/5f25bc0846afb9d5771e02c9c68eb690)
