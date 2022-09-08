@@ -7,7 +7,8 @@ author:     CYC
 header-img: img/home-bg-desk.jpg
 catalog: True
 tags:
-    - sample
+    - Sample
+    - Original
 ---
 
 ## Hello World
