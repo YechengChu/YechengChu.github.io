@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      How to copy a GitHub repo without forking
-subtitle:   
+subtitle:   A simple guide
 date:       2022-09-08
 author:     CYC
 header-img: img/home-bg-geek.jpg
