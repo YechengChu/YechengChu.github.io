@@ -35,12 +35,12 @@ Useful for starter code.
     ```
 
 1. "Pull" the repo you want to copy:
-
+    {% raw %}
     ```shell
     # git url is the same as the clone URL
     $ git pull git-url-of-the-repo-you-want-to-copy
     ```
-
+    {% endraw %}
 1. Create a new repository for your project on GitHub
 1. Push your code to the new repository you just created (Push an existing repository from the command line)
 
