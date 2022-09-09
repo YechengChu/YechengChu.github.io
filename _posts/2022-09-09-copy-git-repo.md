@@ -2,7 +2,7 @@
 layout:     post
 title:      How to copy a GitHub repo without forking
 subtitle:   A simple guide
-date:       2022-09-08
+date:       2022-09-09
 author:     CYC
 header-img: img/home-bg-geek.jpg
 catalog: True
@@ -25,7 +25,7 @@ Useful for starter code.
     ```
 
 1. "Pull" the repo you want to copy:
-    
+
     ```shell
     # git url is the same as the clone URL
     $ git pull git-url-of-the-repo-you-want-to-copy
