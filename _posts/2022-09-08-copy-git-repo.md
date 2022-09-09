@@ -19,10 +19,19 @@ Useful for starter code.
 1. Create a new empty folder for your project and initialize git
 
     ```shell
-    $ cd where-you-keep-your-projects
-    $ mkdir your-project-name
-    $ cd your-project-name
-    $ git init
+    cd where-you-keep-your-projects
+    mkdir your-project-name
+    cd your-project-name
+    git init
+    ```
+    ```python
+    def(a,b):
+      if a != True:
+        return 1
+      elif b == false:
+        return 3
+      else:
+        return 2
     ```
 
 1. "Pull" the repo you want to copy:
