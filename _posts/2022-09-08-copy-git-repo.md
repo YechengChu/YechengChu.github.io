@@ -8,7 +8,6 @@ header-img: img/home-bg-geek.jpg
 catalog: True
 tags:
     - Git
-    - Sample
 ---
 
 # How to copy a GitHub repo without forking
