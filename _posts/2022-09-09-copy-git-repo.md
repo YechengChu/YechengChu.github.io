@@ -10,6 +10,8 @@ tags:
     - Git
 ---
 
+> This blog is modified from [moose-horizons](https://gist.github.com/moose-horizons/5f25bc0846afb9d5771e02c9c68eb690)
+
 # How to copy a GitHub repo without forking
 
 GitHub only lets you fork a repo once, if you want to make more than one copy of a project here's how you can do it.
@@ -39,4 +41,3 @@ Useful for starter code.
     $ git branch -M main
     $ git push -u origin main
     ```
-> This blog is modified from [moose-horizons](https://gist.github.com/moose-horizons/5f25bc0846afb9d5771e02c9c68eb690)
