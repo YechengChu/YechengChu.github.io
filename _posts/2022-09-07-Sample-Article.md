@@ -15,4 +15,4 @@ tags:
 
 Hello World!
 
-<div align=center><img src="../../../../img/post_img/post1-test.jpg"/></div>
+<div align=center><img src="../../../../img/post_img/post1-uom.png"/></div>
