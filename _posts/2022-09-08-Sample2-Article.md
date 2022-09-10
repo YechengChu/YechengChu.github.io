@@ -52,7 +52,8 @@ $ ./app
 localhost:3000
 ```
 就会进入index页面
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023563507-ae0ef904-5d8a-4aba-b217-93440e57f550.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.52.12.png&originHeight=900&originWidth=1440&size=44978&status=done&style=none&width=1440"/></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023563507-ae0ef904-5d8a-4aba-b217-93440e57f550.png"/></div>
+<!-- #align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.52.12.png&originHeight=900&originWidth=1440&size=44978&status=done&style=none&width=1440 -->
 
 点击profile，会跳转登陆界面
 <div align=center><img src="https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023603809-eb23c2f6-cdd2-422e-96b3-500307e73ad2.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.52.57.png&originHeight=900&originWidth=1440&size=57174&status=done&style=none&width=1440"/></div>
