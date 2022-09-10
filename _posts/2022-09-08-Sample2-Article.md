@@ -52,28 +52,31 @@ $ ./app
 localhost:3000
 ```
 就会进入index页面
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023563507-ae0ef904-5d8a-4aba-b217-93440e57f550.png"/></div>
-<!-- #align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.52.12.png&originHeight=900&originWidth=1440&size=44978&status=done&style=none&width=1440 -->
+<div align=center><img src="../../../../img/post_img/post2-1.png"/></div>
 
 点击profile，会跳转登陆界面
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023603809-eb23c2f6-cdd2-422e-96b3-500307e73ad2.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.52.57.png&originHeight=900&originWidth=1440&size=57174&status=done&style=none&width=1440"/></div>
+<div align=center><img src="../../../../img/post_img/post2-2.png"/></div>
 
 登陆界面有按钮可以跳转注册页面
-<!-- <div align=center><img src=""/></div> -->
-![Screen Shot 2020-07-29 at 19.53.56.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023644047-2a148f72-d181-475e-92b0-580396eab961.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.53.56.png&originHeight=900&originWidth=1440&size=55170&status=done&style=none&width=1440)
+<div align=center><img src="../../../../img/post_img/post2-3.png"/></div>
+
 注册界面会对用户提供的用户名和密码进行检查
-![Screen Shot 2020-07-29 at 19.54.50.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023753711-083227af-e530-4317-9931-9833b65c790a.png#align=left&display=inline&height=268&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.54.50.png&originHeight=357&originWidth=761&size=32817&status=done&style=none&width=571)
-![Screen Shot 2020-07-29 at 19.55.07.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023764999-90e29d7b-c8b1-4a26-a580-df4919e7a0d5.png#align=left&display=inline&height=270&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.55.07.png&originHeight=360&originWidth=771&size=33569&status=done&style=none&width=578)
-![Screen Shot 2020-07-29 at 19.55.22.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023774066-2d1c37a4-fa0f-474b-9340-adecb51811e6.png#align=left&display=inline&height=277&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.55.22.png&originHeight=370&originWidth=775&size=31470&status=done&style=none&width=581)
+<div align=center><img src="../../../../img/post_img/post2-4.png"/></div>
+<div align=center><img src="../../../../img/post_img/post2-5.png"/></div>
+<div align=center><img src="../../../../img/post_img/post2-6.png"/></div>
 
 注册成功后会跳转profile界面
-![Screen Shot 2020-07-29 at 19.57.16.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023847930-d7a6bde3-f120-4e0e-8532-64f435ab2b4f.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.57.16.png&originHeight=900&originWidth=1440&size=53620&status=done&style=none&width=1440)
+<div align=center><img src="../../../../img/post_img/post2-7.png"/></div>
+
 点击home可以到index界面，此时导航栏的显示是登陆状态的显示(有logout，无register和login)
-![Screen Shot 2020-07-29 at 19.57.49.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023946268-376ee6fd-d017-4744-b6cb-05411b6f22c9.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.57.49.png&originHeight=900&originWidth=1440&size=44211&status=done&style=none&width=1440)
+<div align=center><img src="../../../../img/post_img/post2-8.png"/></div>
+
 点击logout即可退出，退出后会被跳转到首页，此时导航栏显示为未登陆状态的显示
-![Screen Shot 2020-07-29 at 20.01.30.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596024206236-05288c0c-b4e5-4cbd-b120-0f1a0ccbb18d.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2020.01.30.png&originHeight=900&originWidth=1440&size=44966&status=done&style=none&width=1440)
+<div align=center><img src="../../../../img/post_img/post2-9.png"/></div>
+
 点击login，进行登陆，登陆时会检查用户名和密码是否存在于数据库中
-![Screen Shot 2020-07-29 at 20.03.52.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596024277291-9aa8412e-12c4-460f-90e2-6302cdb65c79.png#align=left&display=inline&height=326&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2020.03.52.png&originHeight=434&originWidth=771&size=31826&status=done&style=none&width=578)
+<div align=center><img src="../../../../img/post_img/post2-10.png"/></div>
+
 ## 各golang文件功能
 ### sqlHandeler.go
 负责postgres数据库的操作，包括
@@ -152,7 +155,8 @@ Code adapted from [https://github.com/demo-apps/go-gin-app](https://github.com/d
 
 ## 附录
 ### 目录结构
-![Screen Shot 2020-07-29 at 20.01.18.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596024101771-107002b9-eb5a-42b9-81a3-aa7e4ada64a4.png#align=left&display=inline&height=531&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2020.01.18.png&originHeight=531&originWidth=774&size=131095&status=done&style=none&width=774)
+<div align=center><img src="../../../../img/post_img/post2-11.png"/></div>
+
 ### 代码
 #### sqlHandeler.go
 ```go
