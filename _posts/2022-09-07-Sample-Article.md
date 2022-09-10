@@ -15,4 +15,6 @@ tags:
 
 Hello World!
 
-<div align=center><img src="../../../../img/post_img/post1-uom.png"/></div>
+<div align=center><img src="../../../../img/post_img/post1-uom.jpg"/></div>
+
+<div align=center><img src="../../../../img/CYC_bolg_logo.png"/></div>
