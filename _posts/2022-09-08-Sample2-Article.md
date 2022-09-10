@@ -52,10 +52,13 @@ $ ./app
 localhost:3000
 ```
 就会进入index页面
-![Screen Shot 2020-07-29 at 19.52.12.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023563507-ae0ef904-5d8a-4aba-b217-93440e57f550.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.52.12.png&originHeight=900&originWidth=1440&size=44978&status=done&style=none&width=1440)
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023563507-ae0ef904-5d8a-4aba-b217-93440e57f550.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.52.12.png&originHeight=900&originWidth=1440&size=44978&status=done&style=none&width=1440"/></div>
+
 点击profile，会跳转登陆界面
-![Screen Shot 2020-07-29 at 19.52.57.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023603809-eb23c2f6-cdd2-422e-96b3-500307e73ad2.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.52.57.png&originHeight=900&originWidth=1440&size=57174&status=done&style=none&width=1440)
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023603809-eb23c2f6-cdd2-422e-96b3-500307e73ad2.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.52.57.png&originHeight=900&originWidth=1440&size=57174&status=done&style=none&width=1440"/></div>
+
 登陆界面有按钮可以跳转注册页面
+<!-- <div align=center><img src=""/></div> -->
 ![Screen Shot 2020-07-29 at 19.53.56.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023644047-2a148f72-d181-475e-92b0-580396eab961.png#align=left&display=inline&height=900&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.53.56.png&originHeight=900&originWidth=1440&size=55170&status=done&style=none&width=1440)
 注册界面会对用户提供的用户名和密码进行检查
 ![Screen Shot 2020-07-29 at 19.54.50.png](https://cdn.nlark.com/yuque/0/2020/png/1609946/1596023753711-083227af-e530-4317-9931-9833b65c790a.png#align=left&display=inline&height=268&margin=%5Bobject%20Object%5D&name=Screen%20Shot%202020-07-29%20at%2019.54.50.png&originHeight=357&originWidth=761&size=32817&status=done&style=none&width=571)
