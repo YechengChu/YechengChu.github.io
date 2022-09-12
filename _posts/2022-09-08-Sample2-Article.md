@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Another Sample Blog Title
-subtitle:   Another Sample Blog Subtitle
+subtitle:   📝 用Golang实现用户注册登录功能
 date:       2022-09-08
 author:     CYC
 header-img: img/home-bg-o.jpg
