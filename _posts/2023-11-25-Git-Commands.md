@@ -13,8 +13,9 @@ tags:
 
 > This blog is copied from [BY Blog](https://qiubaiying.github.io/2017/02/15/Git指令整理/)
 
+# Git指令整理
 
-# GitHub创建仓库提示代码
+## GitHub创建仓库提示代码
 
 	echo "# 项目名" >> README.md
 	git init
@@ -29,7 +30,7 @@ tags:
 	git push -u origin master
 
 
-# 常用操作
+## 常用操作
 
 #### 创建仓库（初始化）
 	在当前指定目录下创建
