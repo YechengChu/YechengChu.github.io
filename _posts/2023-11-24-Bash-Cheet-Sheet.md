@@ -710,3 +710,6 @@ esac
 
 ## Cheat Sheet PDF
 {% include iframe_bash_cheet_sheet.html %}
+
+## Other resource
+[Bash scripting cheatsheet](https://devhints.io/bash)
