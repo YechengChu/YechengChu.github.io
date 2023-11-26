@@ -660,8 +660,9 @@ logging.level.root=debug
 ```
 
 ### Spring Annotation Cheat Sheet
-Please refer to this [previous blog](../2023-11-26-Spring-Annotation-Cheet-Sheet.html)
+Please refer to this [blog](../Spring-Annotation-Cheet-Sheet)
 
 ### Other resources
 [SPRING CORE CHEAT SHEET](https://groupe-sii.github.io/cheat-sheets/spring/spring-core/index.html)
+
 [SPRING BOOT 2 CHEAT SHEET](https://groupe-sii.github.io/cheat-sheets/spring/spring-boot/index.html)
