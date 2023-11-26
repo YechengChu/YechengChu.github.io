@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Spring Cheat Sheets
-date:       2023-11-27
+date:       2023-11-26
 author:     CYC
 header-img: img/post-bg-spring2.jpg
 catalog: True
