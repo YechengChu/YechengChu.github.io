@@ -11,7 +11,7 @@ tags:
     - Cheatsheet
 ---
 
-> This blog is a combination of several resources from the website
+> This blog is a combination of several resources from the Internet
 
 # Spring Cheat Sheets
 
