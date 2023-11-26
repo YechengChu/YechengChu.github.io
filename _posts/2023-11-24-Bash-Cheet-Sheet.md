@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      Bash Cheat Sheet
-subtitle:   
 date:       2023-11-24
 author:     CYC
 header-img: img/home-bg-art.jpg
